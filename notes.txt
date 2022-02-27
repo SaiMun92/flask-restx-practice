@@ -1,0 +1,3 @@
+Useful Resources
+https://auth0.com/blog/best-practices-for-flask-api-development/
+https://python.plainenglish.io/flask-restful-apis-72e05f8d41fa
